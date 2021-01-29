@@ -6,4 +6,5 @@
 - 🤔 I’m looking for help with Backend
 - 💬 Ask me about Competitive Programming
 - 📫 How to reach me: Message me on Twitter
-- ⚡ Fun fact: I had a breakup
+<!-- ⚡ Fun fact: I had a breakup-->
+
